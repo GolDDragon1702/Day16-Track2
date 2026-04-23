@@ -1,0 +1,1 @@
+{"load_time_sec": 2.6007020473480225, "train_time_sec": 4.428058862686157, "auc_roc": 0.752732082562907, "accuracy": 0.9973666654962958, "precision": 0.32894736842105265, "recall": 0.5102040816326531, "f1_score": 0.4, "inference_latency_avg_sec": 7.916621070937626e-06}
